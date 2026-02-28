@@ -1,5 +1,0 @@
-transaction_id,account_id,transaction_date,transaction_type,amount,currency,merchant,region
-1,1001,2024-01-01,DEBIT,120.50,USD,Amazon,North
-2,1002,2024-01-01,CREDIT,2000.00,USD,Salary,North
-3,1001,2024-01-02,DEBIT,50.25,USD,Uber,West
-4,1003,2024-01-02,DEBIT,5000.00,USD,ElectronicsStore,South
